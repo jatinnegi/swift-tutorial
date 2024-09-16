@@ -1,0 +1,21 @@
+# macOS generated files
+.DS_Store
+*.swp
+*.xcuserstate
+
+# Swift Playgrounds specific files
+timeline.xctimeline
+playground.xcworkspace
+
+# Build folders
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+
+# Xcode
+*.xcworkspace/
+*.xcuserdata/
+*.xcuserdatad/
+xcdebugger/
